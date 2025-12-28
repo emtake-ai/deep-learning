@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace alexnet.keras download](https://huggingface.co/emtake-ai/alexnet/resolve/main/alexnet.keras)
+[HuggingFace alexnet.keras download](https://huggingface.co/emtake-ai/alexnet)
 
-[HuggingFace alexnet.lne download](https://huggingface.co/emtake-ai/alexnet/resolve/main/alexnet.lne)
+[HuggingFace alexnet.lne download](https://huggingface.co/emtake-ai/alexnet)
 
 Step 4. Convert Model to NPU Format (LNE)
 

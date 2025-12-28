@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace vggnet.keras download](https://huggingface.co/emtake-ai/vggnet/resolve/main/vggnet.keras)
+[HuggingFace vggnet.keras download](https://huggingface.co/emtake-ai/vggnet)
 
-[HuggingFace vggnet.lne download](https://huggingface.co/emtake-ai/vggnet/resolve/main/vggnet.lne)
+[HuggingFace vggnet.lne download](https://huggingface.co/emtake-ai/vggnet)
 
 Step 4. Convert Model to NPU Format (LNE)
 

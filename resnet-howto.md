@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace resnet.keras download](https://huggingface.co/emtake-ai/resnet/resolve/main/resnet.keras)
+[HuggingFace resnet.keras download](https://huggingface.co/emtake-ai/resnet)
 
-[HuggingFace resnet.lne download](https://huggingface.co/emtake-ai/resnet/resolve/main/resnet.lne)
+[HuggingFace resnet.lne download](https://huggingface.co/emtake-ai/resnet)
 
 Step 4. Convert Model to NPU Format (LNE)
 

@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace mobilenet.keras download](https://huggingface.co/emtake-ai/mobilenet/resolve/main/mobilenet.keras)
+[HuggingFace mobilenet.keras download](https://huggingface.co/emtake-ai/mobilenet)
 
-[HuggingFace mobilenet.lne download](https://huggingface.co/emtake-ai/mobilenet/resolve/main/mobilenet.lne)
+[HuggingFace mobilenet.lne download](https://huggingface.co/emtake-ai/mobilenet)
 
 Step 4. Convert Model to NPU Format (LNE)
 

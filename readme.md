@@ -72,3 +72,12 @@ you will understand both CNN history and Edge AI design philosophy.
 - [ResNet](resnet-howto.md)  
 - [MobileNet](mobilenet-howto.md)  
 - [EfficientNet](efficientnet.md)  
+
+## you can check else in youtube 
+
+- [how to annotate in yolo using labelimg](https://www.youtube.com/watch?v=nV26hK3CxNM)
+- [how to download the git repos using git clone](https://www.youtube.com/watch?v=SGCvhjD3mtM)
+- [how to download the model from huggingface](https://www.youtube.com/watch?v=JCcyCxori0M)
+- [how to build keras, and how to convert it with lne](https://www.youtube.com/watch?v=BDnK0pujDvg)
+
+
