@@ -20,7 +20,7 @@ Step 1. Download Dataset
 
 Download the AlexNet dataset ZIP file from HuggingFace.
 
-[HuggingFace alexnet datasset 다운로드](https://huggingface.co/datasets/emtake-ai/alexnet/resolve/main/alexnet-dataset.zip)
+[HuggingFace alexnet datasset download](https://huggingface.co/datasets/emtake-ai/alexnet/resolve/main/alexnet-dataset.zip)
 
 After downloading, extract it into the dataset/ directory:
 
@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace alexnet.keras 다운로드](https://huggingface.co/emtake-ai/alexnet/resolve/main/alexnet.keras)
+[HuggingFace alexnet.keras download](https://huggingface.co/emtake-ai/alexnet/resolve/main/alexnet.keras)
 
-[HuggingFace alexnet.lne 다운로드](https://huggingface.co/emtake-ai/alexnet/resolve/main/alexnet.lne)
+[HuggingFace alexnet.lne download](https://huggingface.co/emtake-ai/alexnet/resolve/main/alexnet.lne)
 
 Step 4. Convert Model to NPU Format (LNE)
 

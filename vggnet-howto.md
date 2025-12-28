@@ -20,7 +20,7 @@ Step 1. Download Dataset
 
 Download the vggnet dataset ZIP file from HuggingFace.
 
-[HuggingFace vggnet datasset 다운로드](https://huggingface.co/datasets/emtake-ai/vggnet/resolve/main/vggnet-dataset.zip)
+[HuggingFace vggnet datasset download](https://huggingface.co/datasets/emtake-ai/vggnet/resolve/main/vggnet-dataset.zip)
 
 After downloading, extract it into the dataset/ directory:
 
@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace vggnet.keras 다운로드](https://huggingface.co/emtake-ai/vggnet/resolve/main/vggnet.keras)
+[HuggingFace vggnet.keras download](https://huggingface.co/emtake-ai/vggnet/resolve/main/vggnet.keras)
 
-[HuggingFace vggnet.lne 다운로드](https://huggingface.co/emtake-ai/vggnet/resolve/main/vggnet.lne)
+[HuggingFace vggnet.lne download](https://huggingface.co/emtake-ai/vggnet/resolve/main/vggnet.lne)
 
 Step 4. Convert Model to NPU Format (LNE)
 

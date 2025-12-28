@@ -20,7 +20,7 @@ Step 1. Download Dataset
 
 Download the googlenet dataset ZIP file from HuggingFace.
 
-[HuggingFace googlenet datasset 다운로드](https://huggingface.co/datasets/emtake-ai/googlenet/resolve/main/googlenet-dataset.zip)
+[HuggingFace googlenet datasset download](https://huggingface.co/datasets/emtake-ai/googlenet/resolve/main/googlenet-dataset.zip)
 
 After downloading, extract it into the dataset/ directory:
 
@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace googlenet.keras 다운로드](https://huggingface.co/emtake-ai/googlenet/resolve/main/googlenet.keras)
+[HuggingFace googlenet.keras download](https://huggingface.co/emtake-ai/googlenet/resolve/main/googlenet.keras)
 
-[HuggingFace googlenet.lne 다운로드](https://huggingface.co/emtake-ai/googlenet/resolve/main/googlenet.lne)
+[HuggingFace googlenet.lne download](https://huggingface.co/emtake-ai/googlenet/resolve/main/googlenet.lne)
 
 Step 4. Convert Model to NPU Format (LNE)
 

@@ -20,7 +20,7 @@ Step 1. Download Dataset
 
 Download the resnet dataset ZIP file from HuggingFace.
 
-[HuggingFace resnet datasset 다운로드](https://huggingface.co/datasets/emtake-ai/resnet/resolve/main/resnet-dataset.zip)
+[HuggingFace resnet datasset download](https://huggingface.co/datasets/emtake-ai/resnet/resolve/main/resnet-dataset.zip)
 
 After downloading, extract it into the dataset/ directory:
 
@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace resnet.keras 다운로드](https://huggingface.co/emtake-ai/resnet/resolve/main/resnet.keras)
+[HuggingFace resnet.keras download](https://huggingface.co/emtake-ai/resnet/resolve/main/resnet.keras)
 
-[HuggingFace resnet.lne 다운로드](https://huggingface.co/emtake-ai/resnet/resolve/main/resnet.lne)
+[HuggingFace resnet.lne download](https://huggingface.co/emtake-ai/resnet/resolve/main/resnet.lne)
 
 Step 4. Convert Model to NPU Format (LNE)
 

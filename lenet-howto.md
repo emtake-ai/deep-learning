@@ -20,8 +20,8 @@ Please ask us on this for how to convert using synabro such as installing with d
 afer this you can get the "lenet.lne".
 
 or you can get directly these from below link
-[HuggingFace lenet.keras 다운로드](https://huggingface.co/emtake-ai/lenet/resolve/main/lenet.keras)
-[HuggingFace lenet.lne 다운로드](https://huggingface.co/emtake-ai/lenet/resolve/main/lenet.lne)
+[HuggingFace lenet.keras download](https://huggingface.co/emtake-ai/lenet/resolve/main/lenet.keras)
+[HuggingFace lenet.lne download](https://huggingface.co/emtake-ai/lenet/resolve/main/lenet.lne)
 
 After downloading above two, using tftp or scp, you can tranfer lne file to the eagleboard.
 you can run the run_lenet.py in eaglebaord, using below commmand in cli
