@@ -6,7 +6,7 @@ lenet-project/
  │   └─ model/keras/lenet.py
  ├─ train_lenet.py
  └─ run_lenet.py
-
+"""
  You can see as above directory, you can download the dataset as mnist in code.
  after that, you can download the train_lenet.py, run as below command in cli of Ubuntu
 

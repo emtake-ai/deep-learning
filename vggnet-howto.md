@@ -14,6 +14,7 @@ vggnet-project/
  │   └─ model/keras/vggnet.py
  ├─ train_vggnet.py
  └─ run_vggnet.py
+ """
 
 Step 1. Download Dataset
 Download the vggnet dataset ZIP file from HuggingFace.

@@ -14,6 +14,7 @@ googlenet-project/
  │   └─ model/keras/googlenet.py
  ├─ train_googlenet.py
  └─ run_googlenet.py
+"""
 
 Step 1. Download Dataset
 Download the googlenet dataset ZIP file from HuggingFace.

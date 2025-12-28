@@ -14,6 +14,7 @@ mobilenet-project/
  │   └─ model/keras/mobilenet.py
  ├─ train_mobilenet.py
  └─ run_mobilenet.py
+ """
 
 Step 1. Download Dataset
 Download the mobilenet dataset ZIP file from HuggingFace.
