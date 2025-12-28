@@ -15,7 +15,7 @@ alexnet-project/
  │   └─ model/keras/alexnet.py
  ├─ train_alexnet.py
  └─ run_alexnet.py
-"""
+```
 Step 1. Download Dataset
 Download the AlexNet dataset ZIP file from HuggingFace.
 [HuggingFace alexnet datasset 다운로드](https://huggingface.co/datasets/emtake-ai/alexnet/resolve/main/alexnet-dataset.zip)

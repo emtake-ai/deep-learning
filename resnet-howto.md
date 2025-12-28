@@ -14,7 +14,7 @@ resnet-project/
  │   └─ model/keras/resnet.py
  ├─ train_resnet.py
  └─ run_resnet.py
- """
+```
 
 Step 1. Download Dataset
 Download the resnet dataset ZIP file from HuggingFace.
