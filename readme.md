@@ -62,3 +62,13 @@ Each document explains not only the model structure but also:
 
 By reading this section in order,  
 you will understand both CNN history and Edge AI design philosophy.
+
+## Test each model
+
+- [LeNet](lenet-howto.md)
+- [AlexNet](alexnet-howto.md)  
+- [VGGNet](vggnet-howto.md)  
+- [GoogLeNet](googlenet-howto.md)  
+- [ResNet](resnet-howto.md)  
+- [MobileNet](mobilenet-howto.md)  
+- [EfficientNet](efficientnet.md)  
