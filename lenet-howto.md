@@ -1,5 +1,5 @@
 lenet directory structure
-
+```text
 lenet-project/
  ├─ dataset : MNIST
  ├─ model-sample/

@@ -1,5 +1,5 @@
 mobilenet directory structure
-
+```text
 mobilenet-project/
  ├─ dataset/
  │   ├─ train/

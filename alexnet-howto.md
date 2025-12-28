@@ -1,5 +1,6 @@
 alexnet directory structure
 
+```text
 alexnet-project/
  ├─ dataset/
  │   ├─ train/
