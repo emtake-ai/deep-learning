@@ -20,7 +20,7 @@ Step 1. Download Dataset
 
 Download the mobilenet dataset ZIP file from HuggingFace.
 
-[HuggingFace mobilenet datasset 다운로드](https://huggingface.co/datasets/emtake-ai/mobilenet/resolve/main/mobilenet-dataset.zip)
+[HuggingFace mobilenet datasset download](https://huggingface.co/datasets/emtake-ai/mobilenet/resolve/main/mobilenet-dataset.zip)
 
 After downloading, extract it into the dataset/ directory:
 
@@ -40,9 +40,9 @@ Step 3. Download Pretrained Models (Optional)
 
 If you prefer not to train from scratch, download the pretrained models directly:
 
-[HuggingFace mobilenet.keras 다운로드](https://huggingface.co/emtake-ai/mobilenet/resolve/main/mobilenet.keras)
+[HuggingFace mobilenet.keras download](https://huggingface.co/emtake-ai/mobilenet/resolve/main/mobilenet.keras)
 
-[HuggingFace mobilenet.lne 다운로드](https://huggingface.co/emtake-ai/mobilenet/resolve/main/mobilenet.lne)
+[HuggingFace mobilenet.lne download](https://huggingface.co/emtake-ai/mobilenet/resolve/main/mobilenet.lne)
 
 Step 4. Convert Model to NPU Format (LNE)
 
