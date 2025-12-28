@@ -35,6 +35,7 @@ Step 4. Convert Model to NPU Format (LNE)
 Convert lenet.keras into lenet.lne using Synabro.
 
 [guide](model-conversion-to-npu/readme.md)
+
 Step 5. Transfer Model to Eagleboard
 
 After conversion, transfer the model to the Eagleboard:
