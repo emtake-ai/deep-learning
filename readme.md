@@ -79,5 +79,4 @@ you will understand both CNN history and Edge AI design philosophy.
 - [how to download the git repos using git clone](https://www.youtube.com/watch?v=SGCvhjD3mtM)
 - [how to download the model from huggingface](https://www.youtube.com/watch?v=JCcyCxori0M)
 - [how to build keras, and how to convert it with lne](https://www.youtube.com/watch?v=BDnK0pujDvg)
-
-
+- [how to install synabro with docker](https://www.youtube.com/watch?v=fNOcj9eNf_M)
