@@ -92,4 +92,4 @@ you will understand both CNN history and Edge AI design philosophy.
 
 #### 3. regard the deployment in NPU, you should refer [here](npu-model-deployment/readme.md) 
 
-#### 4. [from scratch to learn on how to train and predict using deep-learning] (https://youtu.be/8mX33GbMDFs)
+#### 4. [from scratch to learn on how to train and predict using deep-learning](https://youtu.be/8mX33GbMDFs)
