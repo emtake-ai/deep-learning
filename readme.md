@@ -91,3 +91,5 @@ you will understand both CNN history and Edge AI design philosophy.
 #### 2. transfer lne to the Eagleboard using sftp root@192.168.x.x, in here, IP is yours not written here.
 
 #### 3. regard the deployment in NPU, you should refer [here](npu-model-deployment/readme.md) 
+
+#### 4. [from scratch to learn on how to train and predict using deep-learning] (https://youtu.be/8mX33GbMDFs)
