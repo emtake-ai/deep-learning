@@ -90,4 +90,4 @@ you will understand both CNN history and Edge AI design philosophy.
 
 #### 2. transfer lne to the Eagleboard using sftp root@192.168.x.x, in here, IP is yours not written here.
 
-#### 3. regard the deployment in NPU, you should refer [here](npu-model-deployment/sample.py) 
+#### 3. regard the deployment in NPU, you should refer [here](npu-model-deployment/readme.md) 
