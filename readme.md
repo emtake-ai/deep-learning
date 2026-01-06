@@ -81,3 +81,13 @@ you will understand both CNN history and Edge AI design philosophy.
 - [how to build keras, and how to convert it with lne](https://www.youtube.com/watch?v=BDnK0pujDvg)
 - [how to install synabro with docker](https://www.youtube.com/watch?v=fNOcj9eNf_M)
 - [how to install yolov7 from github](https://www.youtube.com/watch?v=vVipUHJVF5o)
+
+
+## how to run your trained of classification in PC inside NPU
+
+#### 1. [build the model](lenet.md)/ [how to convert trained weight into NPU compatible such as LNE](https://www.youtube.com/watch?v=BDnK0pujDvg)
+##### you can change from lenet to alexnet, vggnet, googlenet, and mobilenet each
+
+#### 2. transfer lne to the Eagleboard using sftp root@192.168.x.x, in here, IP is yours not written here.
+
+#### 3. regard the deployment in NPU, you should refer [here](npu-model-deployment/sample.py) 
