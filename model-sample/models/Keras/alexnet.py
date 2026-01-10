@@ -4,8 +4,8 @@ from tensorflow.keras import layers, models
 # ------------------------------
 # Dataset (same as before)
 # ------------------------------
-train_dir = "data/train"
-val_dir = "data/val"
+train_dir = "dataset/train"
+val_dir = "dataset/val"
 
 train_ds = tf.keras.utils.image_dataset_from_directory(
     train_dir,
@@ -75,7 +75,7 @@ x = layers.Dense(4096, activation='relu')(x)
 x = layers.Dropout(0.5)(x)
 
 # Output
-outputs = layers.Dense(2, activation='softmax')(x)
+outputs = layers.Dense(3, activation='softmax')(x)
 
 # Build model
 model = models.Model(inputs=inputs, outputs=outputs, name="AlexNet")
