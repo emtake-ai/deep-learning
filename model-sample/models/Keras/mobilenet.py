@@ -98,7 +98,7 @@ def MobileNetV3_Small():
     inputs = layers.Input(shape=(224,224,3))
     x = layers.Conv2D(16,3,strides=2,padding='same',use_bias=False)(inputs)
     x = layers.BatchNormalization()(x)
-    x = layers.Activation('swish')(x)
+    x = layers.Activation('relu')(x)
 
     x = MBConv(x,16,3,2,1,True)
     x = MBConv(x,24,3,2,4,False)
@@ -107,10 +107,10 @@ def MobileNetV3_Small():
 
     x = layers.Conv2D(576,1,use_bias=False)(x)
     x = layers.BatchNormalization()(x)
-    x = layers.Activation('swish')(x)
+    x = layers.Activation('relu')(x)
 
     x = layers.GlobalAveragePooling2D()(x)
-    x = layers.Dense(1024,activation='swish')(x)
+    x = layers.Dense(1024,activation='relu')(x)
     outputs = layers.Dense(NUM_CLASSES,activation='softmax')(x)
 
     return models.Model(inputs,outputs)
